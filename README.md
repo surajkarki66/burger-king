@@ -6,14 +6,18 @@ This web application is built in React.js and Firebase where you can design your
 
 ## Local Preview
 1. Make sure you have Node.js on your machine.
-2. Install all node modules as dependencies.
+2. Clone this repository
+   ```bash
+   git clone https://github.com/surajkarki66/burger-king
+   ```
+3. Install all node modules as dependencies.
    ```bash
    npm install
    ```
-3. Run the local server
+4. Run the local server
    ```bash
    npm start
    ```
-4. Preview: http://localhost:3000
+5. Preview: http://localhost:3000
 
 Happy Coding !!
